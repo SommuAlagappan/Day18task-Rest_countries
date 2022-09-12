@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to right, orange, yellowgreen);
+}
+
+.card {
+    width: 20rem;
+    box-shadow: 4px 4px 32px;
+    margin-bottom: 30px;
+
+
+}
+nav {
+       
+    height: 50px;
+    color: rgb(235, 98, 162);
+    text-align: center;
+    font-family: 'sans-serif';
+    font-weight: bolder;
+}
+/* button {
+    background-color:green ;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 3px;
+}
+
+button:hover{
+  box-shadow: 3px 3px 32px rgb(56, 226, 56);
+  transition: ease-in-out 0.2s;
+} */
